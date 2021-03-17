@@ -1,0 +1,32 @@
+body{
+  background-color: #fcf8e8;
+}
+h1{
+  color: #df7861;
+  font-size: 50px;
+}
+p{
+  color: #435560;
+}
+
+h2{
+  color: #865858;
+}
+td{
+  color: #435560;
+}
+li{
+  color:#435560;
+}
+a:link{
+  color:#865858;
+}
+a:visited{
+  color:#897853;
+}
+a:hover{
+  color:#865858;
+}
+hr{
+  width: 5%;
+}
